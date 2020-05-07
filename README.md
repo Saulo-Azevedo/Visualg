@@ -22,7 +22,7 @@ G
 3) Crie um algoritmo que divide os valores 10 e 7 e apresenta o resultado com casas decimais.
 
 
-40 Crie um algoritmo que calcule a porcentagem de um determinado número em relação ao valor 50. ATENÇÃO: Só podem ser aceitos valores entre 0 e 50 como entrada de dados. Exemplo: Foi digitado o valor 30, quanto 30 representa em porcentagem em relação a 50? Resultado deve ser: 60%.
+4) Crie um algoritmo que calcule a porcentagem de um determinado número em relação ao valor 50. ATENÇÃO: Só podem ser aceitos valores entre 0 e 50 como entrada de dados. Exemplo: Foi digitado o valor 30, quanto 30 representa em porcentagem em relação a 50? Resultado deve ser: 60%.
 
 
 5) Crie um algoritmo que declara as seguintes variáveis:
