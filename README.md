@@ -1,5 +1,5 @@
 # Visualg
- Lista de exercícios e arquivos de exercícios realizados no Visualg  - Aplicando Lógica na Prática!
+ Lista de exercícios e arquivos realizados no Visualg  - Aplicando Lógica na Prática!
  
  O s exercícios foram listados abaixo e os arquivos com a resolução segue na pasta.
  
